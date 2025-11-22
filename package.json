@@ -1,0 +1,21 @@
+{
+  "name": "cicero-lino-theme",
+  "displayName": "cicero-lino-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cicero-lino-theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/cicero-lino-theme-color-theme.json"
+      }
+    ]
+  }
+}
