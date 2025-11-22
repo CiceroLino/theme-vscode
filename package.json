@@ -5,8 +5,8 @@
   "description": "",
   "version": "1.0.0",
   "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/CiceroLino/cicero-theme-vscode.git"
+     "type": "git",
+     "url": "https://github.com/CiceroLino/cicero-theme-vscode"
   },
   "engines": {
     "vscode": "^1.106.1"
